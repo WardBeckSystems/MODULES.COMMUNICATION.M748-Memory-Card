@@ -1,5 +1,5 @@
 # 1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2.jpg
-Wiki page: [M748](../../../../PAGES/M748.md)
+Wiki page: [M748](../)
 
 
 - **Year:** 1971 (title block date)

@@ -1,6 +1,6 @@
 # M748 Memory Card · Communication
 
-Ward-Beck Systems M748, 1970|3. Wiki page: [M748 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M748.html)
+Ward-Beck Systems M748, 1970|3. Wiki page: [M748 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M748-Memory-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|
